@@ -22,14 +22,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Psalmorg/Project_4/blob/main/Screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Psalmorg/Project_4/blob/)
+- Live Site URL: [Add live site URL here](https://psalmorg.github.io/Project_4/)
 
 ## My process
 
